@@ -351,7 +351,5 @@ A dashboard walkthrough video is included in this repository to demonstrate the 
 
 ## Author
 
-**Bilal Ahmed**
+**Syed Bilal Ahmed**
 
-Data Analytics Enthusiast  
-GitHub: `https://github.com/BilalAnalyzes`
